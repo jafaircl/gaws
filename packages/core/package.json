@@ -1,0 +1,19 @@
+{
+  "name": "@gaws/core",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jonathan Faircloth",
+  "license": "MIT",
+  "repository": "https://github.com/jafaircl/gaws",
+  "dependencies": {
+    "@gaws/utils": "^0.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

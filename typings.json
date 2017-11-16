@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "adwords-scripts": "file:typings/adwords-scripts/adwords-scripts.d.ts",
+    "gaws": "file:typings/gaws/gaws.d.ts",
+    "html-css": "file:typings/html-css/html-css.d.ts"
+  }
+}

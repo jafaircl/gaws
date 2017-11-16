@@ -1,0 +1,12 @@
+.rpt2_cache
+rpt2_cache
+node_modules
+packages/gaws/test.js
+packages/gaws/test.ts
+packages/gaws/template.html
+packages/gaws/row.html
+packages/gaws/styles.css
+packages/gaws/keys.ts
+typings/globals/adwords-scripts/typings.json
+typings/globals/html-css/typings.json
+typings/globals/gaws/typings.json
